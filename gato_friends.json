@@ -6,9 +6,7 @@
 		"skunk" : false,
 		"coyote" : false,
 		"crow" : false,
-		"duck" : false,
 		"bee" : false,
-		"fly" : false,
 		"baby" : true
 	}
 }
