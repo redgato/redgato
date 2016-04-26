@@ -1,0 +1,11 @@
+{
+	"gatonActivities" : {
+		"pounce" : true,
+		"snuggle" : true,
+		"eat" : true,
+		"wake_up" : true,
+		"clean_dishes" : false,
+		"uses_litter_box" : true,
+		"jump_height" : 4
+	}
+}
