@@ -1,0 +1,9 @@
+{
+	"redgato" : {
+		"legs" : 4,
+		"head" : 1,
+		"eats" : true,
+		"weight" : 13.5	
+	}
+
+}
