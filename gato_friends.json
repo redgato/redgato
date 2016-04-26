@@ -1,0 +1,12 @@
+{
+	"gaton_friends": {
+		"dog" : false,
+		"raccoon" : true,
+		"squirrel" : true,
+		"skunk" : false,
+		"coyote" : false,
+		"crow" : false,
+		"bee" : false,
+		"baby" : true
+	}
+}
